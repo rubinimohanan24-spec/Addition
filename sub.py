@@ -5,4 +5,4 @@ if a>b:
     print("The sum is = ",c)
 else:
     c=b-a
-    print("The sum is = ",c)
+    print("The sum is = ", c)
